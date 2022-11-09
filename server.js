@@ -5,6 +5,8 @@
 //mongodb+srv://haneul:<password>@web322.zd2xruj.mongodb.net/?retryWrites=true&w=majority
 //p34c7CAejWtnKL9a
 
+//https://drab-cyan-dove-cuff.cyclic.app/
+//https://github.com/Skyhaneul9/WEB322-A4
 
 const exp = require("express") 
 const app = exp();
