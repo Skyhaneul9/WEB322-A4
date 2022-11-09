@@ -23,7 +23,7 @@ const registration_schema = new mongoose.Schema({
     "username": { "type": String, "unique": true },
     "password": String,
     "address": String,
-    "dob": Stg,
+    "dob": String,
     "phoneD": String,
     "course": String,
     "email": { "type": String, "unique": true }
